@@ -1,0 +1,19 @@
+{
+  "name": "cloudinaryapi-s",
+  "version": "1.0.0",
+  "description": "practica para el uso de api´s en cloudinary",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.37.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
